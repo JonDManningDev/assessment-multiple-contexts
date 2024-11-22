@@ -1,0 +1,12 @@
+[
+  { "id": 1, "company": "Hyplex", "amountInDollars": 15000, "closed": true },
+  { "id": 2, "company": "Comvoy", "amountInDollars": 30000, "closed": false },
+  {
+    "id": 3,
+    "company": "Innear Medical",
+    "amountInDollars": 21000,
+    "closed": false
+  },
+  { "id": 4, "company": "Thredz", "amountInDollars": 15000, "closed": false },
+  { "id": 5, "company": "Orbix", "amountInDollars": 42000, "closed": true }
+]
